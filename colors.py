@@ -1,4 +1,4 @@
-color = ['red','yellow','green','blue','white','pink']
+color = ['red','yellow','green','blue','white','pink','orange']
 
 i = 0
 
