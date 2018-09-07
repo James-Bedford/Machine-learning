@@ -1,5 +1,5 @@
 " lesson 1 "
-"apple or an orange supervised learning "
+"apple or an orange supervised learning using decision tree recipe 1"
 
 from sklearn import tree
 
